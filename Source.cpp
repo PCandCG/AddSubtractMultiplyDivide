@@ -24,6 +24,7 @@ int main() {
 	else if (operation == 4) {
 		answer = num1 / num2;
 	}
-	cout << "Answer: " << answer;
+	cout << "Answer: " << answer << endl;
+	system("PAUSE");
 	return 0;
 }
